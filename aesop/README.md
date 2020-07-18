@@ -4,13 +4,13 @@
 > Parrish: Colaborator
 
 ## Component Sections:
-* Hompage (Header)
+* Homepage (Header)
 * Gifts
 * Carousel
-* Suggetions
+* Suggestions
 * Hands and Body
 * Slide Show
-* Nuturing Formulations
+* Nurturing Formulations
 * Footer
 
 
